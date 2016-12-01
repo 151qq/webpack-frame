@@ -1,0 +1,25 @@
+{
+  "name": "webpack-frame",
+  "version": "1.0.0",
+  "description": "webpack打包-多页面应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/151qq/webpack-frame.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "杨宁",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/151qq/webpack-frame/issues"
+  },
+  "homepage": "https://github.com/151qq/webpack-frame#readme",
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
+}
